@@ -18,6 +18,10 @@ once you got the assets in there,you can open up the EasyRP-Windows and you will
 
 Thats it,if you installed python correctly and have all the librarys you should see a simple menu that will set your Rich Presence On Discord.You can play with it.
 
+For the presets
+The large Image for Zoom is "zoom",The small Image is "zooms"
+The Large Image For Minecraft is "minecraft", the small image is "diamond"
+
 A Couple of Note:
 For the preset Zoom and Minecraft:
   Size is the number of user that you want to set(It doesn't check the entry,so you could also put words in it)
