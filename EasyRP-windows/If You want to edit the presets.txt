@@ -1,0 +1,16 @@
+If you want to edit the code,i recommend using vscode,but notepad or other app 
+should do the trick.
+
+The SetStatus Is ( Status , Details , Large Text , Small Text)
+
+The Zoom:
+Message At Line 48
+Picture At Line 49 
+
+Minecraft :
+Message At Line 65
+Picture At Line 66
+
+To Change The Name:
+Zoom is at line 108
+Minecraft is at line 126
