@@ -39,3 +39,5 @@ For the button,The Update button just updates the entrys,but doesn't reset the t
 Thats it,have fun with the menu!!
 Credits to:
 https://github.com/Pizzabelly/EasyRP
+
+Btw,this was made in 15 hours,so there might be issues...
